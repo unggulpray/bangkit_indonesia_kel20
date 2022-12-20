@@ -1,0 +1,23 @@
+body {
+  background: url(../assets/bela.jpg) no-repeat;
+  background-size: cover;
+}
+
+.sidebar {
+  height: 100%;
+  width: 40px;
+  background-color: tomato;
+  position: fixed;
+
+}
+
+.navbar,
+.im-box {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.foto-session {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
